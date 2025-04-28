@@ -1,0 +1,14 @@
+java -version
+
+javac -version
+
+javac *.java 
+rmiregistry ---> cursor will start blinking
+
+Open new terminal
+	java Server
+
+Open new terminal
+	java Client 
+	Enter the details
+	run again using the same command java Client
